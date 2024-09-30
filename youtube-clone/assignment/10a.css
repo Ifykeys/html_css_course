@@ -1,0 +1,53 @@
+.oliver-pics {
+  display: inline-block;
+  width: 50px;
+  vertical-align: top;
+}
+
+.oliv-pics {
+  background-image: url(WhatsApp_Image_2023-09-08_at_08.27.26-removebg-preview.png);
+  width: 50px;
+  height: 50px;
+  background-position: center;
+  background-size: contain;
+  border-radius: 50%;
+}
+
+.video-info {
+  display: inline-block;
+  width: 200px;
+  margin-right: 20px;
+  margin-left: 10px;
+}
+
+p {
+  font-family: 'Roboto', Arial;
+  margin-top: 0;
+  margin-bottom: 0;
+}
+
+.video-title {
+  margin-top: 0;
+  font-size: 14px;
+  font-weight: 500;
+  line-height: 20px;
+  margin-bottom: 5px;
+}
+
+.video-author,
+.video-stats {
+  font-size: 12px;
+  color: rgb(96, 96, 96);
+}
+
+.video-author {
+  margin-top: 2px;
+  margin-bottom: 2px;
+}
+
+.but-1 {
+  display: inline-block;
+  width: 10px;
+  margin-left: 0;
+  vertical-align: center;
+}
